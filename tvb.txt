@@ -280,4 +280,39 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 
 
 🌊港·澳·台,#genre#
-GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+GOODTV 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+GOODTV2,http://209.141.56.65/litvts.php?id=litv-ftv17
+GoodTV 爱旅行,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+GoodTV 共享观点,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
+GoodTV 共享观点,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
+GoodTV 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+GoodTV 健康煮流,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+GoodTV 健康煮流,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GoodTV 经典音乐,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GoodTV 真情部落,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+GOODTV道在人间,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
+GOODTV道在人间,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch21-2.m3u8
+GOODTV读书会,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
+GOODTV福气人生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch25-2.m3u8
+GOODTV复兴祷告,https://dqhxk7sbp7xog.cloudfront.net/osmflivech38.m3u8
+GOODTV共享观点,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
+GOODTV健康HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GOODTV卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+GOODTV空中圣经学院,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch27-2.m3u8
+GOODTV空中主日学,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch26-2.m3u8
+GOODTV空中主日学,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch23-2.m3u8
+GOODTV刘三讲古HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
+GOODTV天堂敬拜HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch28-2.m3u8
+GOODTV天堂敬拜HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
+GOODTV听我唱HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
+GOODTV维他命HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
+GOODTV新视野HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch22-2.m3u8
+GOODTV幸福学堂HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch8-2.m3u8
+GOODTV耶穌HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch17-2.m3u8
+GOODTV迎接复兴HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
+GOODTV展翅上腾HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch18-2.m3u8
+GOODTV真情部落格HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+GOODTV真情部落格HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u
