@@ -282,6 +282,7 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 🌊港·澳·台,#genre#
 GOODTV 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOODTV 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+GOODTV 好消息,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 GOODTV2 好消息2,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
 GOODTV复兴祷告,https://dqhxk7sbp7xog.cloudfront.net/osmflivech38.m3u8
 GOODTV卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
