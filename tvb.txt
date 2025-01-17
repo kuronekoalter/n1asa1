@@ -282,8 +282,10 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 🌊港·澳·台,#genre#
 GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOODTV好消息,https://epg.pm/stream/b4d019adf1037089415c97599a248fa54e9dc09046b523afd989d9e723eb231b.m3u8
+GOODTV好消息,http://135.148.104.228:19806/597bec9089c341b3a0ae964e7dc3d3a1
 GOODTV真理,http://50.7.238.114:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-GOODTV真理https://epg.pm/stream/c14a639e995c35c2ce090b152f181ca61c82baffe8c1541160a1bc73771a656f.m3u8
+GOODTV真理.https://epg.pm/stream/c14a639e995c35c2ce090b152f181ca61c82baffe8c1541160a1bc73771a656f.m3u8
+GOODTV真理h.ttp://135.148.104.228:19806/cb76c9e88c7640338483654e54fa3feb
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
